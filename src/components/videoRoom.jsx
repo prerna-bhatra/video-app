@@ -33,7 +33,7 @@ const VideoRoom = () => {
         const publisher = OT.initPublisher('publisherContainer', {
           insertMode: 'off', // Change this to append
           width: '100%',
-          height: '50%',
+          height: '20%',
           name: "PRERNA BHATRA",
           style: {
             // buttonDisplayMode: 'off',
